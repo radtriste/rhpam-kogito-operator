@@ -20,7 +20,7 @@ require (
 	github.com/operator-framework/operator-marketplace v0.0.0-20190919183128-4ef67b2f50e9
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.46.0
 	golang.org/x/net v0.0.0-20210224082022-3d97a244fca7 // indirect
-	golang.org/x/sys v0.0.0-20210225134936-a50acf3fe073 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	k8s.io/api v0.21.2
 	k8s.io/apiextensions-apiserver v0.20.1
 	k8s.io/apimachinery v0.21.2
